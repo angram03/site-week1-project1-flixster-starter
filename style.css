@@ -1,1 +1,41 @@
+h1{
+    padding-top: 80px;
+    text-align: center;
+    font-size: 120px;
+    color: rgb(192, 0, 0);
+    font-family: didot;
+}
+#movie-displayed{
+    background-color: rgb(223, 205, 158);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.movie-title{
+    inline-size: 300px; 
+}
+.movie-poster{
+    width: 300px;
+}
+#container{
+    display: flex;
+	align-items: center;
+	justify-content: center;
+}
+#load-more-button{
+    padding: 10px;
+	font-size: 16px;
+	background: #ffffff;
+}
+h3{
+    font-size: 50px;
+    font-family: sans serif;
+}
+body{
+    background-color: rgb(223, 205, 158);
+}
 
+#search-input{
+    width: 300px;
+    height: 40px;
+}
