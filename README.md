@@ -44,7 +44,7 @@ Deployed Application (optional): [Flixster Deployed Site](ADD_LINK_HERE)
 
 `TODO://` Add the embedded URL code to your animated app walkthrough below, `ADD_EMBEDDED_CODE_HERE`. Make sure the video or gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after adding walkthrough video)
 
-<img src="https://imgflip.com/gif/7ovmct" alt="This is an animated gif image, but it does not move"/>
+<img src="https://imgflip.com/gif/7ovmct" alt="This is an animated gif image, but it does not move">
 
 ### Reflection
 
