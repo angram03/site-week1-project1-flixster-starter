@@ -45,7 +45,7 @@ Deployed Application (optional): [Flixster Deployed Site](ADD_LINK_HERE)
 `TODO://` Add the embedded URL code to your animated app walkthrough below, `ADD_EMBEDDED_CODE_HERE`. Make sure the video or gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after adding walkthrough video)
 
 
-![](https://www.canva.com/design/DAFlZwrY674/1ejFanyC8rfGT9E9fnQvcA/edit?utm_content=DAFlZwrY674&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+<img src= "7ovmct(1).gif">
 
 
 ### Reflection
