@@ -52,13 +52,13 @@ Deployed Application (optional): [Flixster Deployed Site](ADD_LINK_HERE)
 
 - Did the topics discussed in your labs prepare you to complete the assignment? Be specific, which features in your weekly assignment did you feel unprepared to complete?
 
-Yes. I think this week was stressful but it will get better.
+Yes. I think this week was stressful but i think everything will be a lot smoother next week. I felt super unprepared to complete the api section of the project. The api was super important and i didn't feel comforatble starting. It was nice collaborating with my peers!
 - If you had more time, what would you have done differently? Would you have added additional features? Changed the way your project responded to a particular event, etc.
   
-I would have immeresed myself a little more.
+I would have immeresed myself a little more. I would have added more features and I would have made the website even prettier. I wish i would have added a section a feature that showed the trailers of the movies. 
 
 - Reflect on your project demo, what went well? Were there things that maybe didn't go as planned? Did you notice something that your peer did that you would like to try next time?
-It was harder than I expected! But i did it!
+It was harder than I expected! But i did it and Im proud of myself as well as thankful for my helpful peers. I still have finals to worry about (due to the quarter system at UCSB) so i feel like that impeded my progress this week, but ill be done next week! I will only focus on this program
 
 Add your response here
 
@@ -69,4 +69,4 @@ Add your response here
 ### Shout out
 
 Give a shout out to somebody from your cohort that especially helped you during your project. This can be a fellow peer, instructor, TA, mentor, etc.
-All of them! They were great!!!! Had so much patience.
+All of them! They were great!!!! They all had so much patience. I was very hard on myself and all of them were positive when helping me. I never felt judged.
