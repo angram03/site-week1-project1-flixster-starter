@@ -42,10 +42,10 @@ Deployed Application (optional): [Flixster Deployed Site](ADD_LINK_HERE)
 
 ### Walkthrough Video
 
-`TODO://` Add the embedded URL code to your animated app walkthrough below, `ADD_EMBEDDED_CODE_HERE`. Make sure the video or gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after adding walkthrough video)
+ `<div style="padding:54.97% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/834964800?h=e1650271ef&autoplay=1" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<p><a href="https://vimeo.com/834964800">the_one</a> from <a href="https://vimeo.com/user202040456">Angelica Ramirez</a> on <a href="https://vimeo.com">Vimeo</a>.</p>`. 
 
 
-<img src= "7ovmct(1).gif">
 
 
 ### Reflection
