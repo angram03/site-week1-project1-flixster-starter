@@ -43,9 +43,10 @@ Deployed Application (optional): [Flixster Deployed Site](ADD_LINK_HERE)
 ### Walkthrough Video
 
  <a href="https://www.loom.com/share/39f4e1c76b1d450399b9459ad4cf707e">
+ 
     <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/39f4e1c76b1d450399b9459ad4cf707e-with-play.gif">
   </a>
-  
+
 
 
 
