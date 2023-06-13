@@ -54,6 +54,7 @@ async function apiCall() {
     let url = `https://api.themoviedb.org/3/movie/now_playing?api_key=${movieKey}&language=en-US&page=${currentPages}`
     const res = await fetch(url)
     const data = await res.json()
+    
    
 
 
